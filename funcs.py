@@ -3,5 +3,6 @@ def sum_two_num(num_1, num_2):
     return sum_numbers
 
 
-x = sum_two_num(1, 3)
-print(x)
+def minus_two_num(num_1, num_2):
+    minus_numbers = num_1 - num_2
+    return minus_numbers
